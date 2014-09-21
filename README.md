@@ -1,6 +1,5 @@
-# GettingAndCleaningDataProject
+# Getting And Cleaning Data Project
 =============================
-
 Getting and cleaning data: final course project
 
 This repo contains the following files and folders. 
